@@ -1,1 +1,1 @@
-halverneus/static-file-server
+romancin/tinymediamanager:latest-v4
