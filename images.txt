@@ -3,6 +3,7 @@ xhofe/alist
 dreamacro/clash-premium
 haishanh/yacd
 sigoden/dufs
+amilys/embyserver
 filebrowser/filebrowser
 soulteary/flare
 nyanmisaka/jellyfin
