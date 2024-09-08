@@ -1,3 +1,11 @@
-whyour/qinglong
-xhofe/alist:latest
+xhofe/alist
+dreamacro/clash-premium
+haishanh/yacd
+sigoden/dufs
+filebrowser/filebrowser
+soulteary/flare
 nyanmisaka/jellyfin
+jxxghp/moviepilot
+linuxserver/qbittorrent
+whyour/qinglong
+halverneus/static-file-server
